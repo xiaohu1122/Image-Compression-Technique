@@ -1,13 +1,13 @@
 # image compression technique
-CPSC221-PA3-2019W1
-Goals and Overview
-In this PA (Programming Assignment) you will:
+CPSC221-PA3-2019W1//
+Goals and Overview//
+In this PA (Programming Assignment) you will://
 
-learn about algorithmic art and a possible image compression technique.
-learn about space partitioning trees called Quad Trees.
-learn about balanced versions of Quad Trees.
-learn to design more complex recursive algorithms.
-Inspiration and Background
+learn about algorithmic art and a possible image compression technique.//
+learn about space partitioning trees called Quad Trees.//
+learn about balanced versions of Quad Trees.//
+learn to design more complex recursive algorithms.//
+//Inspiration and Background
 The inspiration for this assignment came from a structure used for surface approximation and an article about an artist whose work recreates classic portraits with a blocky effect. The exact algorithm he used is not given in the article, but we will create similar images using a strategy for image representation that underlies some lossy image compression algorithms.
 
 The two images below illustrate the result of this assignment. Note that the image on the right sacrifices color detail in squares that do not contain much color variability in the original image, but maintains detail by using smaller squares in areas of the original image containing lots of variability.
