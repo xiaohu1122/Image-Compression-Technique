@@ -1,4 +1,5 @@
-# CPSC221-PA3-2019W1
+# image compression technique
+CPSC221-PA3-2019W1
 Goals and Overview
 In this PA (Programming Assignment) you will:
 
